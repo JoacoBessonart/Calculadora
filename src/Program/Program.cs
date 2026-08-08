@@ -8,6 +8,7 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
+// esta  es la operacion de multiplicacion 
 public class Multiplication
 {
     public static int Multiply(int a, int b)
