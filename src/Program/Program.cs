@@ -8,4 +8,10 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-#hola en que andan
+public class Multiplication
+{
+    public static int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+}
