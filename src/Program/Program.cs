@@ -8,4 +8,11 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
-#hola en que andan
+
+public class Subtraction
+{
+    public static int Subtract(int a, int b)
+    {
+        return a - b;
+    }
+}
