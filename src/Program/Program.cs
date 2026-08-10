@@ -23,6 +23,8 @@ public class Division
      public static double Divide(int a, int b)
      {
          return (double)a / b;
+     }
+  }
 
 // esta  es la operacion de adicion
  public class Addition
@@ -32,10 +34,4 @@ public class Division
          return a + b;
      }
   } 
- public class Subtraction
-  {
-     public static int Subtract(int a, int b)
-     {
-         return a - b;
-     }
-  }
+    
