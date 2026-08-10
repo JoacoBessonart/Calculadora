@@ -8,6 +8,7 @@
         Console.WriteLine(Division.Divide(7, 8));
     }
 }
+
 // esta  es la operacion de multiplicacion 
 public class Multiplication
 {
@@ -16,3 +17,12 @@ public class Multiplication
         return a * b;
     }
 }
+
+ public class Addition
+  {
+     public static int Add(int a, int b)
+     {
+         return a + b;
+     }
+  }
+
