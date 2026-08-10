@@ -18,11 +18,20 @@ public class Multiplication
     }
 }
 
+<<<<<<< HEAD
 public class Division
   {
      public static double Divide(int a, int b)
      {
          return (double)a / b;
+=======
+// esta  es la operacion de adicion
+ public class Addition
+  {
+     public static int Add(int a, int b)
+     {
+         return a + b;
+>>>>>>> 9d1b272abc2047b47ff121f5517f9c91e1cca312
      }
   }
 
