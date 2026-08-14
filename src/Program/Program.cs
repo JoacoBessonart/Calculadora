@@ -37,7 +37,7 @@ public class Division
     
   public class Subtraction
   {
-GCNotificationStatus      public static int Subtract(int a, int b)
+ public static int Subtract(int a, int b)
      {
          return a - b;
      }
